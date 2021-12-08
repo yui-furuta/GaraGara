@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-12-08T15:47:36.920+09:00
+  initializedAtString: 2021-12-08T15:07:20.924+09:00
+  entries:
+  - path: Assets/Scenes/button.unity
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/\u8A66\u30573/Assets/Scenes/button.unity"
+    projectPath: Assets/Scenes/button.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
