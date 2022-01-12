@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-12-08T15:47:34.268+09:00
-  initializedAtString: 2021-12-08T15:07:20.452+09:00
+  lastUpdatedAtString: 2022-01-12T10:54:30.108+09:00
+  initializedAtString: 2022-01-12T10:54:30.108+09:00
   currentGitRemote:
     name: origin
-    url: git@github.com:yui-furuta/Garapon.git
+    url: https://github.com/yui-furuta/GaraGara.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: 
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: master
+    name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/yui-furuta/GaraGara.git
+    trackingBranch: main
   currentConfigRemote:
     name: origin
-    url: git@github.com:yui-furuta/Garapon.git
+    url: https://github.com/yui-furuta/GaraGara.git
   currentHead: 
