@@ -17,7 +17,16 @@ public class input : MonoBehaviour
     // テキストを格納する変数
     public Text text;
 
+    public Text listText;
+
     public static string want;
+
+    //ボール
+    public GameObject Boll;
+
+    public GameObject BollObject;
+
+    public List<string>testList = new List<string>(); //Listの宣言
 
     // Start is called before the first frame update
     void Start()
@@ -88,6 +97,10 @@ public class input : MonoBehaviour
             Save(saveData);
             Debug.Log(string.Join(",", saveData.tamaList));
            // Debug.Log(want);
+            GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
+            obj.transform.parent = BollObject.transform;
+            obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
+            //listText.text = string.Join(",", saveData.tamaList);
         }
         // if (want !=null && want.Length!=0) {
         //     tamaList.Add(want);
@@ -108,5 +121,17 @@ public class input : MonoBehaviour
     {
         SaveData saveData = Load();
         Debug.Log(string.Join(",", saveData.tamaList));
+    }
+
+    public void Button(){
+        GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
+        obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
+        //InputFieldに入力された文字を取得
+        Text FieldText = GameObject.Find("InputField/Text").GetComponent<Text>();
+        testList.Add(FieldText.text);
+        //InputField内の文字をクリア
+        InputField column = GameObject.Find("InputField").GetComponent<InputField>();
+        column.text = "";
+        listText.text = string.Join(",", testList);
     }
 }

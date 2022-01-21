@@ -63,7 +63,7 @@ public class garagara2Controller : MonoBehaviour
         previousRad = rad; // 今のフレームの角度を保存
 
          if(GaraponPanel.activeSelf == true){
-             transform.Rotate(tan1*-10,0, 0, Space.Self);
+             transform.Rotate(0,0, tan1*-10, Space.Self);
         }
 
         //ベクトルの回転
