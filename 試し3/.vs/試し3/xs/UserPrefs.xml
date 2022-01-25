@@ -1,14 +1,8 @@
 ﻿<Properties StartupConfiguration="{E5D11837-2318-1C59-5907-007B855EAFCE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AScript/playerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AScript/BollObjectScript.cs">
     <Files>
-      <File FileName="Assets/AScript/UIManeger.cs" Line="12" Column="1" />
-      <File FileName="Assets/Save.cs" />
-      <File FileName="Assets/AScript/garagara2Controller.cs" />
-      <File FileName="Assets/AScript/CameraScript.cs" />
-      <File FileName="Assets/AScript/MainCameraScript.cs" />
-      <File FileName="Assets/garagara6Collider.cs" />
-      <File FileName="Assets/AScript/randomkuzi.cs" />
-      <File FileName="Assets/AScript/playerController.cs" Line="69" Column="1" />
+      <File FileName="Assets/AScript/garagara7Controller.cs" Line="50" Column="21" />
+      <File FileName="Assets/AScript/BollObjectScript.cs" Line="22" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +10,7 @@
           <Node name="試し3" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="AScript" expanded="True">
-                <Node name="playerController.cs" selected="True" />
+                <Node name="garagara7Controller.cs" selected="True" />
               </Node>
               <Node name="test" expanded="True" />
             </Node>

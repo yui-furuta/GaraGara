@@ -125,6 +125,7 @@ public class input : MonoBehaviour
 
     public void Button(){
         GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
+        obj.transform.parent = BollObject.transform;
         obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
         //InputFieldに入力された文字を取得
         Text FieldText = GameObject.Find("InputField/Text").GetComponent<Text>();
@@ -133,5 +134,44 @@ public class input : MonoBehaviour
         InputField column = GameObject.Find("InputField").GetComponent<InputField>();
         column.text = "";
         listText.text = string.Join(",", testList);
+    }
+
+    // 食べ物を一定間隔で生み出す
+    private IEnumerator Spawn()　
+    {
+        // // 3回繰り返す
+        // for (int i = 0; i < 3; i++) 
+        // {
+        //     // 食べ物を生成
+        //     Instantiate(foods[i], transform.position, transform.rotation); 
+
+        //     // 1秒待つ
+        //     yield return new WaitForSeconds(1f); 
+
+        //     // もし3回生成済だったらコルーチン終了
+        //     if (i == 3) 
+        //     {
+        //         yield break;
+        //     }
+        // }
+        for(int i=0; i<testList.Count; i++){
+           GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
+           obj.transform.parent = BollObject.transform;
+           obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
+           // 1秒待つ
+            yield return new WaitForSeconds(0.5f); 
+            // もし3回生成済だったらコルーチン終了
+            if (i == testList.Count) 
+            {
+                yield break;
+            }
+        }
+
+    }
+
+    public void PushResetButton()
+    {
+        // コルーチン開始
+        StartCoroutine("Spawn"); 
     }
 }

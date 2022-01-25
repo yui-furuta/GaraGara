@@ -72,6 +72,8 @@
     <Compile Include="Assets\AScript\garagara5Controller.cs" />
     <Compile Include="Assets\AScript\garagara6Collider.cs" />
     <Compile Include="Assets\AScript\garagara7Controller.cs" />
+    <Compile Include="Assets\AScript\garagara8Controller.cs" />
+    <Compile Include="Assets\AScript\ImageScript.cs" />
     <Compile Include="Assets\AScript\input.cs" />
     <Compile Include="Assets\AScript\MainCameraScript.cs" />
     <Compile Include="Assets\AScript\playerController.cs" />

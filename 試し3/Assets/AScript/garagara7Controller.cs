@@ -47,7 +47,7 @@ public class garagara7Controller : MonoBehaviour
         float dRad = rad - previousRad; // 前のフレームの角度との差
  
         tan += Mathf.Tan(dRad); //タンジェント // * mPos.magnitude;
-        text.text = tan + "";
+        text.text = dRad + "";
         tan1 = Mathf.Tan(dRad);
 
         //Vector3 t = new Vector3();
@@ -59,7 +59,7 @@ public class garagara7Controller : MonoBehaviour
         
         previousRad = rad; // 今のフレームの角度を保存
 
-         if(GaraponPanel.activeSelf == true && dRad>0){
+         if(GaraponPanel.activeSelf == true && dRad>0 &&dRad<0.5){
              transform.Rotate(tan1*-10,0,0, Space.Self);
         }
 
