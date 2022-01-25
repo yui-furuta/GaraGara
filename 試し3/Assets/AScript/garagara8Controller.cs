@@ -8,6 +8,7 @@ public class garagara8Controller : MonoBehaviour
 {
 
     [SerializeField] GameObject GaraponPanel;
+    [SerializeField] GameObject HelpGaraponPanel;
     [SerializeField] Text text;
 
     public float Speed = 0.01f;
@@ -59,8 +60,8 @@ public class garagara8Controller : MonoBehaviour
         
         previousRad = rad; // 今のフレームの角度を保存
 
-         if(GaraponPanel.activeSelf == true && dRad>0 &&dRad<0.5){
-             transform.Rotate(tan1*-10,0,0, Space.Self);
+         if(GaraponPanel.activeSelf == true && dRad>0 &&dRad<0.5 && HelpGaraponPanel.activeSelf == false){
+            transform.Rotate(tan1*-10,0,0, Space.Self);
         }
 
         //ベクトルの回転
@@ -139,5 +140,6 @@ public class garagara8Controller : MonoBehaviour
         // }
         // }
     }
+
 }
 

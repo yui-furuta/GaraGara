@@ -12,6 +12,7 @@ public class UIManeger : MonoBehaviour
     [SerializeField] GameObject GaraponPanel;
     [SerializeField] GameObject InputPanel;
     [SerializeField] GameObject KuziPanel;
+    [SerializeField] GameObject HelpGaraponPanel;
 
 
 
@@ -60,5 +61,13 @@ public class UIManeger : MonoBehaviour
     {
         KuziPanel.SetActive(false);
         GaraponPanel.SetActive(true);
+    }
+    public void HelpGarapon()
+    {
+        HelpGaraponPanel.SetActive(true);
+    }
+    public void BackHelpGarapon()
+    {
+        HelpGaraponPanel.SetActive(false);
     }
 }

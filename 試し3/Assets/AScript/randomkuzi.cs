@@ -24,6 +24,13 @@ public class randomkuzi : MonoBehaviour
 
     float county = 0;
 
+    public float r=0f;
+    public float g=0f;
+    public float b=0f;
+    public float a=0f;
+
+    public Image image;
+
     // void Start(){
     //      SaveData saveData = Load();
     //     for(int i=0; i<saveData.tamaList.Count; i++){
@@ -68,7 +75,7 @@ public class randomkuzi : MonoBehaviour
            obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
            // 1秒待つ
             yield return new WaitForSeconds(1f); 
-            // もし3回生成済だったらコルーチン終了
+            // リストの数分生成済だったらコルーチン終了
             if (i == saveData.tamaList.Count) 
             {
                 yield break;
@@ -120,6 +127,14 @@ public class randomkuzi : MonoBehaviour
         text.text = kuzi;
         Save(saveData);
         Debug.Log(string.Join(",", saveData.tamaList));
+
+        r = playerController.bollColor.r;
+        g = playerController.bollColor.g;
+        b = playerController.bollColor.b;
+        a = playerController.bollColor.a;
+
+        Debug.Log(r);
+        image.color = new Color(r,g,b,a);
     }
 
     public void PushResetButton()

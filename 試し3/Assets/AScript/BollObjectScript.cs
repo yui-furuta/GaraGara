@@ -6,6 +6,7 @@ public class BollObjectScript : MonoBehaviour
 {
 
     public GameObject targetObject;
+    public GameObject ResetObject;
 
     // Start is called before the first frame update
     void Start()
@@ -19,7 +20,7 @@ public class BollObjectScript : MonoBehaviour
         Transform targetTransform = targetObject.transform;
         Vector3 worldAngle = targetTransform.eulerAngles;
         Vector3 worldPos = targetTransform.position;
-        Debug.Log(worldPos.x+","+worldPos.y+","+worldPos.z);
+        //Debug.Log(worldPos.x+","+worldPos.y+","+worldPos.z);
     }
 
     public void PushReloadButton(){
@@ -32,8 +33,10 @@ public class BollObjectScript : MonoBehaviour
     }
 
     public void PushKuziButton(){
+        Transform ResetTransform = ResetObject.transform;
+        Vector3 worldPos = ResetTransform.position;
         GameObject obj = transform.GetChild(Random.Range(0, transform.childCount)).gameObject;
-        obj.transform.position = new Vector3(19f, 28f, 120f); 
-       // Destroy(transform.GetChild(Random.Range(0, transform.childCount)).gameObject);
+        obj.transform.position = new Vector3(worldPos.x, worldPos.y, worldPos.z);
+        // Destroy(transform.GetChild(Random.Range(0, transform.childCount)).gameObject);
     }
 }

@@ -64,14 +64,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AScript\BollColor.cs" />
     <Compile Include="Assets\AScript\BollObjectScript.cs" />
     <Compile Include="Assets\AScript\CameraScript.cs" />
     <Compile Include="Assets\AScript\CreateBoll.cs" />
-    <Compile Include="Assets\AScript\garagara1Controller.cs" />
-    <Compile Include="Assets\AScript\garagara2Controller.cs" />
-    <Compile Include="Assets\AScript\garagara5Controller.cs" />
-    <Compile Include="Assets\AScript\garagara6Collider.cs" />
-    <Compile Include="Assets\AScript\garagara7Controller.cs" />
     <Compile Include="Assets\AScript\garagara8Controller.cs" />
     <Compile Include="Assets\AScript\ImageScript.cs" />
     <Compile Include="Assets\AScript\input.cs" />

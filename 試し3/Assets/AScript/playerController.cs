@@ -4,6 +4,13 @@ using UnityEngine;
 using System.Linq;
 using UnityEngine.UI;
 
+// [System.Serializable]
+// public class BollColor{
+//    public float colorR;
+//    public float colorG;
+//    public float colorB;
+//    public float colorA;
+// }
 
 public class playerController : MonoBehaviour
 {
@@ -18,7 +25,10 @@ public class playerController : MonoBehaviour
     public GameObject gameclea;
 
     public GameObject kuzi;
-    public GameObject kuzipanel;
+    public GameObject UIManeger;
+    //public GameObject KuziPanel;
+
+    public static Color bollColor = new Color(0f, 0f, 0f, 0f);
 
     // [SerializeField] GameObject TopPanel;
     // [SerializeField] GameObject GaraponPanel;
@@ -31,7 +41,8 @@ public class playerController : MonoBehaviour
     {
         // rb = GetComponent<Rigidbody>();
         kuzi = GameObject.Find("kuzi");
-        kuzipanel = GameObject.Find("UIManeger");
+        UIManeger = GameObject.Find("UIManeger");
+        //KuziPanel = GameObject.Find("KuziPanel");
     }
 
     // Update is called once per frame
@@ -51,9 +62,12 @@ public class playerController : MonoBehaviour
         // if (GaraponPanel.activeSelf == true){
 
         if(other.gameObject.tag == "testWall"){
+            Material mat = this.GetComponent<Renderer>().material;
+            bollColor = mat.color;
             Destroy(gameObject);
             kuzi.GetComponent<randomkuzi>().randomChoice();
-            kuzipanel.GetComponent<UIManeger>().KuziChoice();
+            UIManeger.GetComponent<UIManeger>().KuziChoice();
+            //KuziPanel.GetComponent<panelColorScript>().Kuzi();
         }
 
         // }
