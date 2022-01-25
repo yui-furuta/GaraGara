@@ -13,9 +13,1085 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2022-01-25T22:01:45.660+09:00
+  lastUpdatedAtString: 2022-01-26T02:31:21.467+09:00
   initializedAtString: 2022-01-25T22:01:45.322+09:00
   log:
+  - commitID: 55956e4f94d6e4a49957b6e89714be334965edd8
+    mergeA: 
+    mergeB: 
+    authorName: yui-furuta
+    authorEmail: 56290250+yui-furuta@users.noreply.github.com
+    commitEmail: 56290250+yui-furuta@users.noreply.github.com
+    commitName: yui-furuta
+    summary: "\u3068\u308A\u3042\u3048\u305A\u97F3\u4EE5\u5916\u5B8C\u6210\uFF1F"
+    description: "\u304B\u306A\uFF1F"
+    timeString: 2022-01-26T02:30:46.000+09:00
+    commitTimeString: 2022-01-26T02:30:46.000+09:00
+    changes:
+    - path: "\u8A66\u30573/.vs/\u8A66\u30573/xs/UserPrefs.xml"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/.vs/\u8A66\u30573/xs/UserPrefs.xml"
+      projectPath: ".vs/\u8A66\u30573/xs/UserPrefs.xml"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/.vs/\u8A66\u30573/xs/project-cache/Assembly-CSharp-Debug.json"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/.vs/\u8A66\u30573/xs/project-cache/Assembly-CSharp-Debug.json"
+      projectPath: ".vs/\u8A66\u30573/xs/project-cache/Assembly-CSharp-Debug.json"
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assembly-CSharp.csproj"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assembly-CSharp.csproj"
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 38.png"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        38.png"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 38.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 38.png.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        38.png.meta"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 38.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 39.png"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        39.png"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 39.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 39.png.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        39.png.meta"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 39.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 40.png"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        40.png"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 40.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 40.png.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        40.png.meta"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 40.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 58.png"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        58.png"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 58.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 58.png.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        58.png.meta"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 58.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 59.png"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        59.png"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 59.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 59.png.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        59.png.meta"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 59.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 60.png"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        60.png"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 60.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 60.png.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        60.png.meta"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 60.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 68.png"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        68.png"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 68.png"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 68.png.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9
+        68.png.meta"
+      projectPath: "Assets/1x/\u30A2\u30FC\u30C8\u30DC\u30FC\u30C9 68.png.meta"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon.fbx"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon.fbx"
+      projectPath: Assets/AGameObjects/garapon.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon.fbx.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon.fbx.meta"
+      projectPath: Assets/AGameObjects/garapon.fbx.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon1.fbx"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon1.fbx"
+      projectPath: Assets/AGameObjects/garapon1.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon1.fbx.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon1.fbx.meta"
+      projectPath: Assets/AGameObjects/garapon1.fbx.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon5.fbx"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon5.fbx"
+      projectPath: Assets/AGameObjects/garapon5.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon5.fbx.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon5.fbx.meta"
+      projectPath: Assets/AGameObjects/garapon5.fbx.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon6.fbx"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon6.fbx"
+      projectPath: Assets/AGameObjects/garapon6.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon6.fbx.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon6.fbx.meta"
+      projectPath: Assets/AGameObjects/garapon6.fbx.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon7.fbx"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon7.fbx"
+      projectPath: Assets/AGameObjects/garapon7.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AGameObjects/garapon7.fbx.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AGameObjects/garapon7.fbx.meta"
+      projectPath: Assets/AGameObjects/garapon7.fbx.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/BollColor.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/BollColor.cs"
+      projectPath: Assets/AScript/BollColor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/BollColor.cs.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/BollColor.cs.meta"
+      projectPath: Assets/AScript/BollColor.cs.meta
+      originalPath: "\u8A66\u30573/Assets/AScript/garagara1Controller.cs.meta"
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/BollObjectScript.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/BollObjectScript.cs"
+      projectPath: Assets/AScript/BollObjectScript.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/ImageScript.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/ImageScript.cs"
+      projectPath: Assets/AScript/ImageScript.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/UIManeger.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/UIManeger.cs"
+      projectPath: Assets/AScript/UIManeger.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara1Controller.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara1Controller.cs"
+      projectPath: Assets/AScript/garagara1Controller.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara2Controller.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara2Controller.cs"
+      projectPath: Assets/AScript/garagara2Controller.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara2Controller.cs.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara2Controller.cs.meta"
+      projectPath: Assets/AScript/garagara2Controller.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara5Controller.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara5Controller.cs"
+      projectPath: Assets/AScript/garagara5Controller.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara5Controller.cs.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara5Controller.cs.meta"
+      projectPath: Assets/AScript/garagara5Controller.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara6Collider.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara6Collider.cs"
+      projectPath: Assets/AScript/garagara6Collider.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara6Collider.cs.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara6Collider.cs.meta"
+      projectPath: Assets/AScript/garagara6Collider.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara7Controller.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara7Controller.cs"
+      projectPath: Assets/AScript/garagara7Controller.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara7Controller.cs.meta"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara7Controller.cs.meta"
+      projectPath: Assets/AScript/garagara7Controller.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/garagara8Controller.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/garagara8Controller.cs"
+      projectPath: Assets/AScript/garagara8Controller.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/playerController.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/playerController.cs"
+      projectPath: Assets/AScript/playerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/AScript/randomkuzi.cs"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/randomkuzi.cs"
+      projectPath: Assets/AScript/randomkuzi.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/Scenes/button.unity"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/Scenes/button.unity"
+      projectPath: Assets/Scenes/button.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Assets/savedata.json"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/savedata.json"
+      projectPath: Assets/savedata.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/InspectorExpandedItems.asset"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/InspectorExpandedItems.asset"
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.dll"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.dll"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.pdb"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.pdb"
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/ShaderCache/0/00c9c4cf1ab15e4b97afe79aa7c0e348.bin"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/ShaderCache/0/00c9c4cf1ab15e4b97afe79aa7c0e348.bin"
+      projectPath: Library/ShaderCache/0/00c9c4cf1ab15e4b97afe79aa7c0e348.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/ShaderCache/4/4a0186229c5b521452b7ae61d0ee093d.bin"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/ShaderCache/4/4a0186229c5b521452b7ae61d0ee093d.bin"
+      projectPath: Library/ShaderCache/4/4a0186229c5b521452b7ae61d0ee093d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/StateCache/Hierarchy/596035-mainStage.json"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/StateCache/Hierarchy/596035-mainStage.json"
+      projectPath: Library/StateCache/Hierarchy/596035-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/StateCache/Hierarchy/779574-mainStage.json"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/StateCache/Hierarchy/779574-mainStage.json"
+      projectPath: Library/StateCache/Hierarchy/779574-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/StateCache/SceneView/6ce25d-mainStage.json"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/StateCache/SceneView/6ce25d-mainStage.json"
+      projectPath: Library/StateCache/SceneView/6ce25d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/assetDatabase3"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/assetDatabase3"
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/gfu/cache/branches.yaml"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/branches.yaml"
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/gfu/cache/gitlocks.yaml"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/gitlocks.yaml"
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/gfu/cache/gitlog.yaml"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/gitlog.yaml"
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/gfu/cache/gitstatusentries.yaml"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/gitstatusentries.yaml"
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/gfu/cache/gittrackingstatus.yaml"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/gittrackingstatus.yaml"
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/gfu/cache/gituser.yaml"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/gituser.yaml"
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/02/02812e4f6dde5425190ea9005ef39b00"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/02/02812e4f6dde5425190ea9005ef39b00"
+      projectPath: Library/metadata/02/02812e4f6dde5425190ea9005ef39b00
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/0d/0d48c06e3e6d4467cb9fba1a85dab0ad"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/0d/0d48c06e3e6d4467cb9fba1a85dab0ad"
+      projectPath: Library/metadata/0d/0d48c06e3e6d4467cb9fba1a85dab0ad
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/0d/0d48c06e3e6d4467cb9fba1a85dab0ad.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/0d/0d48c06e3e6d4467cb9fba1a85dab0ad.info"
+      projectPath: Library/metadata/0d/0d48c06e3e6d4467cb9fba1a85dab0ad.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/34/34d203850db544d2489f8027214f242e"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/34/34d203850db544d2489f8027214f242e"
+      projectPath: Library/metadata/34/34d203850db544d2489f8027214f242e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/34/34d203850db544d2489f8027214f242e.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/34/34d203850db544d2489f8027214f242e.info"
+      projectPath: Library/metadata/34/34d203850db544d2489f8027214f242e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/37/37457b8bdfe5e4cf3b343e2fa9e0eac0"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/37/37457b8bdfe5e4cf3b343e2fa9e0eac0"
+      projectPath: Library/metadata/37/37457b8bdfe5e4cf3b343e2fa9e0eac0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/37/37457b8bdfe5e4cf3b343e2fa9e0eac0.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/37/37457b8bdfe5e4cf3b343e2fa9e0eac0.info"
+      projectPath: Library/metadata/37/37457b8bdfe5e4cf3b343e2fa9e0eac0.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/3c/3cd0495fc0a5e4c3ab27e052ef9f7b1a"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/3c/3cd0495fc0a5e4c3ab27e052ef9f7b1a"
+      projectPath: Library/metadata/3c/3cd0495fc0a5e4c3ab27e052ef9f7b1a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/3c/3cd0495fc0a5e4c3ab27e052ef9f7b1a.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/3c/3cd0495fc0a5e4c3ab27e052ef9f7b1a.info"
+      projectPath: Library/metadata/3c/3cd0495fc0a5e4c3ab27e052ef9f7b1a.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/4d/4df1ca51c5fed4dec9da9f5e5d255600"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/4d/4df1ca51c5fed4dec9da9f5e5d255600"
+      projectPath: Library/metadata/4d/4df1ca51c5fed4dec9da9f5e5d255600
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/4d/4df1ca51c5fed4dec9da9f5e5d255600.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/4d/4df1ca51c5fed4dec9da9f5e5d255600.info"
+      projectPath: Library/metadata/4d/4df1ca51c5fed4dec9da9f5e5d255600.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/54/541b75acacbdf4cf4865cc35c9f77446"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/54/541b75acacbdf4cf4865cc35c9f77446"
+      projectPath: Library/metadata/54/541b75acacbdf4cf4865cc35c9f77446
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/54/541b75acacbdf4cf4865cc35c9f77446.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/54/541b75acacbdf4cf4865cc35c9f77446.info"
+      projectPath: Library/metadata/54/541b75acacbdf4cf4865cc35c9f77446.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/58/58ef4f7f8c02e409bae7ad46e3191611"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/58/58ef4f7f8c02e409bae7ad46e3191611"
+      projectPath: Library/metadata/58/58ef4f7f8c02e409bae7ad46e3191611
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/5d/5d77fb29259d344328031e2a0ca99e15"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/5d/5d77fb29259d344328031e2a0ca99e15"
+      projectPath: Library/metadata/5d/5d77fb29259d344328031e2a0ca99e15
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/5d/5d77fb29259d344328031e2a0ca99e15.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/5d/5d77fb29259d344328031e2a0ca99e15.info"
+      projectPath: Library/metadata/5d/5d77fb29259d344328031e2a0ca99e15.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/70/703d6b1f6305346e0a7fec787fb17c6f"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/70/703d6b1f6305346e0a7fec787fb17c6f"
+      projectPath: Library/metadata/70/703d6b1f6305346e0a7fec787fb17c6f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/70/703d6b1f6305346e0a7fec787fb17c6f.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/70/703d6b1f6305346e0a7fec787fb17c6f.info"
+      projectPath: Library/metadata/70/703d6b1f6305346e0a7fec787fb17c6f.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/7c/7cd906ae1f34e4503bf7a838ce2c1399"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/7c/7cd906ae1f34e4503bf7a838ce2c1399"
+      projectPath: Library/metadata/7c/7cd906ae1f34e4503bf7a838ce2c1399
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/7c/7cd906ae1f34e4503bf7a838ce2c1399.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/7c/7cd906ae1f34e4503bf7a838ce2c1399.info"
+      projectPath: Library/metadata/7c/7cd906ae1f34e4503bf7a838ce2c1399.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/91/914af31bc1a824ee4b18659ad00535cd"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/91/914af31bc1a824ee4b18659ad00535cd"
+      projectPath: Library/metadata/91/914af31bc1a824ee4b18659ad00535cd
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/92/925cc2ecca37f456b8bbb71deafcab0c"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/92/925cc2ecca37f456b8bbb71deafcab0c"
+      projectPath: Library/metadata/92/925cc2ecca37f456b8bbb71deafcab0c
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/95/9524ec06cfd9d413b8566e4d38cf9585"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/95/9524ec06cfd9d413b8566e4d38cf9585"
+      projectPath: Library/metadata/95/9524ec06cfd9d413b8566e4d38cf9585
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/95/9524ec06cfd9d413b8566e4d38cf9585.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/95/9524ec06cfd9d413b8566e4d38cf9585.info"
+      projectPath: Library/metadata/95/9524ec06cfd9d413b8566e4d38cf9585.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/97/9738687abb62f4b3eba1e1e6fe7d8484"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/97/9738687abb62f4b3eba1e1e6fe7d8484"
+      projectPath: Library/metadata/97/9738687abb62f4b3eba1e1e6fe7d8484
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/ab/ab120d46270524ab4942b3aeedbbdef2"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/ab/ab120d46270524ab4942b3aeedbbdef2"
+      projectPath: Library/metadata/ab/ab120d46270524ab4942b3aeedbbdef2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/ab/ab120d46270524ab4942b3aeedbbdef2.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/ab/ab120d46270524ab4942b3aeedbbdef2.info"
+      projectPath: Library/metadata/ab/ab120d46270524ab4942b3aeedbbdef2.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/b4/b48d1c629763c481eb808086659dea09"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/b4/b48d1c629763c481eb808086659dea09"
+      projectPath: Library/metadata/b4/b48d1c629763c481eb808086659dea09
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/b4/b48d1c629763c481eb808086659dea09.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/b4/b48d1c629763c481eb808086659dea09.info"
+      projectPath: Library/metadata/b4/b48d1c629763c481eb808086659dea09.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/c0/c060ad118735a49e68cf55773dab502f"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/c0/c060ad118735a49e68cf55773dab502f"
+      projectPath: Library/metadata/c0/c060ad118735a49e68cf55773dab502f
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/c0/c060ad118735a49e68cf55773dab502f.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/c0/c060ad118735a49e68cf55773dab502f.info"
+      projectPath: Library/metadata/c0/c060ad118735a49e68cf55773dab502f.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/c6/c60c186e448724487a49d3065f2f363e"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/c6/c60c186e448724487a49d3065f2f363e"
+      projectPath: Library/metadata/c6/c60c186e448724487a49d3065f2f363e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/c6/c60c186e448724487a49d3065f2f363e.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/c6/c60c186e448724487a49d3065f2f363e.info"
+      projectPath: Library/metadata/c6/c60c186e448724487a49d3065f2f363e.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/c9/c9a74463d5a5b4533b28992f5d0ab783"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/c9/c9a74463d5a5b4533b28992f5d0ab783"
+      projectPath: Library/metadata/c9/c9a74463d5a5b4533b28992f5d0ab783
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/c9/c9a74463d5a5b4533b28992f5d0ab783.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/c9/c9a74463d5a5b4533b28992f5d0ab783.info"
+      projectPath: Library/metadata/c9/c9a74463d5a5b4533b28992f5d0ab783.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/cb/cbf3390b06d0b464085f9b7b49149cd5"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/cb/cbf3390b06d0b464085f9b7b49149cd5"
+      projectPath: Library/metadata/cb/cbf3390b06d0b464085f9b7b49149cd5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/ce/ce16d2f84594046208d9cb9155e02a64"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/ce/ce16d2f84594046208d9cb9155e02a64"
+      projectPath: Library/metadata/ce/ce16d2f84594046208d9cb9155e02a64
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/ce/ce16d2f84594046208d9cb9155e02a64.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/ce/ce16d2f84594046208d9cb9155e02a64.info"
+      projectPath: Library/metadata/ce/ce16d2f84594046208d9cb9155e02a64.info
+      originalPath: "\u8A66\u30573/Library/metadata/cb/cbf3390b06d0b464085f9b7b49149cd5.info"
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/d4/d4e051d3c04fb4a05b45bed540096d43"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/d4/d4e051d3c04fb4a05b45bed540096d43"
+      projectPath: Library/metadata/d4/d4e051d3c04fb4a05b45bed540096d43
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/e3/e3eb65e879d554640a83ac9b90898277"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/e3/e3eb65e879d554640a83ac9b90898277"
+      projectPath: Library/metadata/e3/e3eb65e879d554640a83ac9b90898277
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/e3/e3eb65e879d554640a83ac9b90898277.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/e3/e3eb65e879d554640a83ac9b90898277.info"
+      projectPath: Library/metadata/e3/e3eb65e879d554640a83ac9b90898277.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/e8/e8f08b4577b9f42b793a98047b850df0"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/e8/e8f08b4577b9f42b793a98047b850df0"
+      projectPath: Library/metadata/e8/e8f08b4577b9f42b793a98047b850df0
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/metadata/e8/e8f08b4577b9f42b793a98047b850df0.info"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/e8/e8f08b4577b9f42b793a98047b850df0.info"
+      projectPath: Library/metadata/e8/e8f08b4577b9f42b793a98047b850df0.info
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler0.log"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler0.log"
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-00c6ca3d46b7543c0856d11f1cc7fe6a"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-00c6ca3d46b7543c0856d11f1cc7fe6a"
+      projectPath: Temp/UnityTempFile-00c6ca3d46b7543c0856d11f1cc7fe6a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-02fc115027cc649eeaaaf41c68947e15"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-02fc115027cc649eeaaaf41c68947e15"
+      projectPath: Temp/UnityTempFile-02fc115027cc649eeaaaf41c68947e15
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-068a96f7936864468b220ba8a79d6b48"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-068a96f7936864468b220ba8a79d6b48"
+      projectPath: Temp/UnityTempFile-068a96f7936864468b220ba8a79d6b48
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-11600a0181e954c2cb29d0ffc661ffaf"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-11600a0181e954c2cb29d0ffc661ffaf"
+      projectPath: Temp/UnityTempFile-11600a0181e954c2cb29d0ffc661ffaf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-12832b77522974638a61ef349dc65108"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-12832b77522974638a61ef349dc65108"
+      projectPath: Temp/UnityTempFile-12832b77522974638a61ef349dc65108
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-1455aec332754474091e2637b1a6383b"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-1455aec332754474091e2637b1a6383b"
+      projectPath: Temp/UnityTempFile-1455aec332754474091e2637b1a6383b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-17033d20f344b42b4b2af013ed958602"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-17033d20f344b42b4b2af013ed958602"
+      projectPath: Temp/UnityTempFile-17033d20f344b42b4b2af013ed958602
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-1c4ade662fef1482fa183da7c32f521c"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-1c4ade662fef1482fa183da7c32f521c"
+      projectPath: Temp/UnityTempFile-1c4ade662fef1482fa183da7c32f521c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-1cf6e9890bf314513869aff153662e9e"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-1cf6e9890bf314513869aff153662e9e"
+      projectPath: Temp/UnityTempFile-1cf6e9890bf314513869aff153662e9e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-1d03b944a18b249d385c80ce5bd9832f"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-1d03b944a18b249d385c80ce5bd9832f"
+      projectPath: Temp/UnityTempFile-1d03b944a18b249d385c80ce5bd9832f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-1f4c0df0394774c1ba281bedde85a32d"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-1f4c0df0394774c1ba281bedde85a32d"
+      projectPath: Temp/UnityTempFile-1f4c0df0394774c1ba281bedde85a32d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-20b3ba2e502ee4957a4d94d60e0dfc77"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-20b3ba2e502ee4957a4d94d60e0dfc77"
+      projectPath: Temp/UnityTempFile-20b3ba2e502ee4957a4d94d60e0dfc77
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-25b4ba86ee5fe487bb4f91971283c5b7"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-25b4ba86ee5fe487bb4f91971283c5b7"
+      projectPath: Temp/UnityTempFile-25b4ba86ee5fe487bb4f91971283c5b7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-291415e6370be4c338645231082c2af8"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-291415e6370be4c338645231082c2af8"
+      projectPath: Temp/UnityTempFile-291415e6370be4c338645231082c2af8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-29b0e656aaf6945ae9b08d7307b2fcec"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-29b0e656aaf6945ae9b08d7307b2fcec"
+      projectPath: Temp/UnityTempFile-29b0e656aaf6945ae9b08d7307b2fcec
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-2a8bbd4e8303b4786b105ddea9c9ff20"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-2a8bbd4e8303b4786b105ddea9c9ff20"
+      projectPath: Temp/UnityTempFile-2a8bbd4e8303b4786b105ddea9c9ff20
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-2c5c22dce9c0241f49594fa809500f2b"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-2c5c22dce9c0241f49594fa809500f2b"
+      projectPath: Temp/UnityTempFile-2c5c22dce9c0241f49594fa809500f2b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-2e9acce08768a4a288ba091c0c45dd42"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-2e9acce08768a4a288ba091c0c45dd42"
+      projectPath: Temp/UnityTempFile-2e9acce08768a4a288ba091c0c45dd42
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-319f5e893fd774833abc40c005535e95"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-319f5e893fd774833abc40c005535e95"
+      projectPath: Temp/UnityTempFile-319f5e893fd774833abc40c005535e95
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-3b29b694126db4e0080e4261a7cc51d2"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-3b29b694126db4e0080e4261a7cc51d2"
+      projectPath: Temp/UnityTempFile-3b29b694126db4e0080e4261a7cc51d2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-3b8f8a23eca87423c88f1ff5336e7547"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-3b8f8a23eca87423c88f1ff5336e7547"
+      projectPath: Temp/UnityTempFile-3b8f8a23eca87423c88f1ff5336e7547
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-400a078cbf91a44488b5ccbb0de836fb"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-400a078cbf91a44488b5ccbb0de836fb"
+      projectPath: Temp/UnityTempFile-400a078cbf91a44488b5ccbb0de836fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-48e040067c9da4a418ca28561e1e01f6"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-48e040067c9da4a418ca28561e1e01f6"
+      projectPath: Temp/UnityTempFile-48e040067c9da4a418ca28561e1e01f6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-5312e589334a0477687b71e577c723c9"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-5312e589334a0477687b71e577c723c9"
+      projectPath: Temp/UnityTempFile-5312e589334a0477687b71e577c723c9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-536da04fe8a1e4853a6732988a0ba4fb"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-536da04fe8a1e4853a6732988a0ba4fb"
+      projectPath: Temp/UnityTempFile-536da04fe8a1e4853a6732988a0ba4fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-5507d129501c24dfda7ff5398d123e07"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-5507d129501c24dfda7ff5398d123e07"
+      projectPath: Temp/UnityTempFile-5507d129501c24dfda7ff5398d123e07
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-5af51852954f8428fa8f3cb921176bde"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-5af51852954f8428fa8f3cb921176bde"
+      projectPath: Temp/UnityTempFile-5af51852954f8428fa8f3cb921176bde
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-5ea556e338f8e42daaba4979f50650ab"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-5ea556e338f8e42daaba4979f50650ab"
+      projectPath: Temp/UnityTempFile-5ea556e338f8e42daaba4979f50650ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-614850464df824fc5af0db8b29addf96"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-614850464df824fc5af0db8b29addf96"
+      projectPath: Temp/UnityTempFile-614850464df824fc5af0db8b29addf96
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-713e08a6d6ba746b0a3d7274700b1fe5"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-713e08a6d6ba746b0a3d7274700b1fe5"
+      projectPath: Temp/UnityTempFile-713e08a6d6ba746b0a3d7274700b1fe5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-736bb239d3f9a4f599078d639d11816d"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-736bb239d3f9a4f599078d639d11816d"
+      projectPath: Temp/UnityTempFile-736bb239d3f9a4f599078d639d11816d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-7600fb30ead3e4c4a97b538a5da32108"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-7600fb30ead3e4c4a97b538a5da32108"
+      projectPath: Temp/UnityTempFile-7600fb30ead3e4c4a97b538a5da32108
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-76f64098300b74115a0f3d3fdc231eee"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-76f64098300b74115a0f3d3fdc231eee"
+      projectPath: Temp/UnityTempFile-76f64098300b74115a0f3d3fdc231eee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-7773977af31a143728651c9586fd4bad"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-7773977af31a143728651c9586fd4bad"
+      projectPath: Temp/UnityTempFile-7773977af31a143728651c9586fd4bad
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-7a7fe44b2f0dc44c6916feda97bc049a"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-7a7fe44b2f0dc44c6916feda97bc049a"
+      projectPath: Temp/UnityTempFile-7a7fe44b2f0dc44c6916feda97bc049a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-7b172ae92d71c4282982371f9783293d"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-7b172ae92d71c4282982371f9783293d"
+      projectPath: Temp/UnityTempFile-7b172ae92d71c4282982371f9783293d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-830ab7a084afc4fe6bfc79992dd766fd"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-830ab7a084afc4fe6bfc79992dd766fd"
+      projectPath: Temp/UnityTempFile-830ab7a084afc4fe6bfc79992dd766fd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-8938bf231771c4a1bbbd2262f5da259f"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-8938bf231771c4a1bbbd2262f5da259f"
+      projectPath: Temp/UnityTempFile-8938bf231771c4a1bbbd2262f5da259f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-9000657bc2a984ec2b6b17fd825b9cfa"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-9000657bc2a984ec2b6b17fd825b9cfa"
+      projectPath: Temp/UnityTempFile-9000657bc2a984ec2b6b17fd825b9cfa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-92a8caffd03ba436881a36cd2966e5c5"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-92a8caffd03ba436881a36cd2966e5c5"
+      projectPath: Temp/UnityTempFile-92a8caffd03ba436881a36cd2966e5c5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-9768e9abe889542ac88cc4cfe19cd158"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-9768e9abe889542ac88cc4cfe19cd158"
+      projectPath: Temp/UnityTempFile-9768e9abe889542ac88cc4cfe19cd158
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-9e41c275ee57546ee8adb65cc17a2d37"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-9e41c275ee57546ee8adb65cc17a2d37"
+      projectPath: Temp/UnityTempFile-9e41c275ee57546ee8adb65cc17a2d37
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-9fd14592319d9431da246ed098285763"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-9fd14592319d9431da246ed098285763"
+      projectPath: Temp/UnityTempFile-9fd14592319d9431da246ed098285763
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-a3ae77621a1244cb6bc32f9f317799b8"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-a3ae77621a1244cb6bc32f9f317799b8"
+      projectPath: Temp/UnityTempFile-a3ae77621a1244cb6bc32f9f317799b8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-aac4b86a096c24cdca614c56c8f699e8"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-aac4b86a096c24cdca614c56c8f699e8"
+      projectPath: Temp/UnityTempFile-aac4b86a096c24cdca614c56c8f699e8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-b5a00a2e6f9294e76bc39fd97f1a15e1"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-b5a00a2e6f9294e76bc39fd97f1a15e1"
+      projectPath: Temp/UnityTempFile-b5a00a2e6f9294e76bc39fd97f1a15e1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-b953a7de81f914ed6bf40441518b3ce5"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-b953a7de81f914ed6bf40441518b3ce5"
+      projectPath: Temp/UnityTempFile-b953a7de81f914ed6bf40441518b3ce5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-be27bd178b2254c18b54fccbd994c099"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-be27bd178b2254c18b54fccbd994c099"
+      projectPath: Temp/UnityTempFile-be27bd178b2254c18b54fccbd994c099
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-c1afa393558bc4f95b84a33d26d5e32e"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-c1afa393558bc4f95b84a33d26d5e32e"
+      projectPath: Temp/UnityTempFile-c1afa393558bc4f95b84a33d26d5e32e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-c9a8e8c31bbba470fb78a3ebd54cca64"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-c9a8e8c31bbba470fb78a3ebd54cca64"
+      projectPath: Temp/UnityTempFile-c9a8e8c31bbba470fb78a3ebd54cca64
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-cd5f6fce8205e4f0fbe49620c8792512"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-cd5f6fce8205e4f0fbe49620c8792512"
+      projectPath: Temp/UnityTempFile-cd5f6fce8205e4f0fbe49620c8792512
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-d240de2005d804fcfa25405d5d22f973"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-d240de2005d804fcfa25405d5d22f973"
+      projectPath: Temp/UnityTempFile-d240de2005d804fcfa25405d5d22f973
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-d4f0099a3449643a395ee2e3ce31ac71"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-d4f0099a3449643a395ee2e3ce31ac71"
+      projectPath: Temp/UnityTempFile-d4f0099a3449643a395ee2e3ce31ac71
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-db832d51135104d8dbc682e6fcdf6761"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-db832d51135104d8dbc682e6fcdf6761"
+      projectPath: Temp/UnityTempFile-db832d51135104d8dbc682e6fcdf6761
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-ddb6922037e0c4d1ba51643a888e7d8e"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-ddb6922037e0c4d1ba51643a888e7d8e"
+      projectPath: Temp/UnityTempFile-ddb6922037e0c4d1ba51643a888e7d8e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-deb37c5b230904eeda1b8c7058ad3734"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-deb37c5b230904eeda1b8c7058ad3734"
+      projectPath: Temp/UnityTempFile-deb37c5b230904eeda1b8c7058ad3734
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-e1809b2deddb84a56a11ea2ffad27c85"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-e1809b2deddb84a56a11ea2ffad27c85"
+      projectPath: Temp/UnityTempFile-e1809b2deddb84a56a11ea2ffad27c85
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-e1c9107f0f98f4f35be4ba26f1cc7fd4"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-e1c9107f0f98f4f35be4ba26f1cc7fd4"
+      projectPath: Temp/UnityTempFile-e1c9107f0f98f4f35be4ba26f1cc7fd4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-e31f26b5ec2154eb0a39c250332360b4"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-e31f26b5ec2154eb0a39c250332360b4"
+      projectPath: Temp/UnityTempFile-e31f26b5ec2154eb0a39c250332360b4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-e53e9302e4b1b4cd3b4445e7e32c5b6e"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-e53e9302e4b1b4cd3b4445e7e32c5b6e"
+      projectPath: Temp/UnityTempFile-e53e9302e4b1b4cd3b4445e7e32c5b6e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-e5ba6b4dfc5e7413ab41bef2f079a6e7"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-e5ba6b4dfc5e7413ab41bef2f079a6e7"
+      projectPath: Temp/UnityTempFile-e5ba6b4dfc5e7413ab41bef2f079a6e7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-e7df5908e5943434aa1714209b76a3e0"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-e7df5908e5943434aa1714209b76a3e0"
+      projectPath: Temp/UnityTempFile-e7df5908e5943434aa1714209b76a3e0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-ea3201dace8cd4507bc270381bdb157f"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-ea3201dace8cd4507bc270381bdb157f"
+      projectPath: Temp/UnityTempFile-ea3201dace8cd4507bc270381bdb157f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-eb9bd79d858c843af9b597ecb8e91994"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-eb9bd79d858c843af9b597ecb8e91994"
+      projectPath: Temp/UnityTempFile-eb9bd79d858c843af9b597ecb8e91994
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-ef96782705949477fae3fd8132916184"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-ef96782705949477fae3fd8132916184"
+      projectPath: Temp/UnityTempFile-ef96782705949477fae3fd8132916184
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-f345e4fdfd7c2421db25e486c421e639"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-f345e4fdfd7c2421db25e486c421e639"
+      projectPath: Temp/UnityTempFile-f345e4fdfd7c2421db25e486c421e639
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/UnityTempFile-f3f967f60bf2645538e600082a58ff2c"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-f3f967f60bf2645538e600082a58ff2c"
+      projectPath: Temp/UnityTempFile-f3f967f60bf2645538e600082a58ff2c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/Temp/__Backupscenes/0.backup"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/__Backupscenes/0.backup"
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache"
+      projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: "\u8A66\u30573/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache"
+      fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache"
+      projectPath: obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 60753e465f1a13f11a1c46c305e4474f70b5dd1d
     mergeA: 
     mergeB: 
