@@ -24,6 +24,9 @@ public class garagara8Controller : MonoBehaviour
 
     public Rigidbody rb;
 
+    public AudioClip sound1;
+    AudioSource audioSource;
+
 
     // Start is called before the first frame update
     void Start()
@@ -36,6 +39,7 @@ public class garagara8Controller : MonoBehaviour
         mPos = Input.mousePosition - screenSizeHalf;
         previousRad = Mathf.Atan2(mPos.x, mPos.y);
         rb = GetComponent<Rigidbody>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -51,94 +55,15 @@ public class garagara8Controller : MonoBehaviour
         text.text = dRad + "";
         tan1 = Mathf.Tan(dRad);
 
-        //Vector3 t = new Vector3();
-
-        //t.z = Mathf.Clamp(Mathf.Tan(dRad) / 10f, -0.3f, 0.3f);
-
-        //rb.AddTorque(transform.TransformDirection(t), ForceMode.Impulse);
-
         
         previousRad = rad; // 今のフレームの角度を保存
-
          if(GaraponPanel.activeSelf == true && dRad>0 &&dRad<0.5 && HelpGaraponPanel.activeSelf == false){
             transform.Rotate(tan1*-10,0,0, Space.Self);
+            if (!audioSource.isPlaying && dRad > 0.1)
+            {
+                audioSource.PlayOneShot(sound1);
+            }
         }
-
-        //ベクトルの回転
-        //   if (Input.GetMouseButtonDown(0))
-        // {
-        //     // クリック開始
-        //     Debug.Log("Begin");
-
-        //     // 前のフレームのマウス座標を保持する
-        //     _previousMousePosition = Input.mousePosition;
-        // }
-        // else if (Input.GetMouseButton(0))
-        // {
-        //     // クリック移動
-        //     Debug.Log("Moved");
-
-        //     // 現在のマウス座標を取得
-        //     var currentMousePosition = Input.mousePosition;
-        //     // 前のフレームのマウス座標から現在のマウス座標へのベクトルを求める
-        //     var deltaMousePosition = _previousMousePosition - currentMousePosition;
-        //     //移動量に応じて角度計算
-        //     // * 10はSpeedを調整すれば良いため不要なので削除
-        //     float xAngle = deltaMousePosition.y * Speed;
-        //     float yAngle = -deltaMousePosition.x * Speed;
-        //     float zAngle = 0f;
-
-        //     //回転
-        //     transform.Rotate(0, 0, zAngle, Space.World);
-
-        //     // 前のフレームのマウス座標を現在のマウス座標に更新する
-        //     _previousMousePosition = currentMousePosition;
-        // }
-        // else if (Input.GetMouseButtonUp(0))
-        // {
-        //     // クリック終了
-        //     Debug.Log("Ended");
-        // }
-
-
-        //スマホタッチ
-        // int touchCount = Input.touches
-        // .Count(t => t.phase != TouchPhase.Ended && t.phase != TouchPhase.Canceled);
-
-        // if (touchCount == 1)
-        // {
-        // Touch t = Input.touches.First();
-        // switch (t.phase)
-        // {
-        // case TouchPhase.Moved:
-
-        // //移動量に応じて角度計算
-        // float xAngle = t.deltaPosition.y * Speed * 10;
-        // float yAngle = -t.deltaPosition.x * Speed * 10;
-        // float zAngle = 0;
-
-        // //回転
-        // transform.Rotate(xAngle, yAngle, zAngle, Space.World);
-
-        // break;
-        // }
-
-        // }
-
-
-        // if(GaraponPanel.activeSelf == true){
-        // // Right キーでY軸回転
-        // if (Input.GetKey("right"))
-        // {
-        //     transform.Rotate(0, 0, 2, Space.Self);
-        // }
-
-        // //Left キーで左でY軸回転
-        // if (Input.GetKey("left"))
-        // {
-        //     transform.Rotate(0, 0, -2, Space.Self);
-        // }
-        // }
     }
 
 }
