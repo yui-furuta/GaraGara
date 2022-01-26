@@ -26,10 +26,12 @@ public class input : MonoBehaviour
 
     //ボール
     public GameObject Boll;
+    //public GameObject BollBuild;
 
     public GameObject BollObject;
+    //public GameObject BollObjectBuild;
 
-    public static List<string>testList = new List<string>(); //Listの宣言
+    //public static List<string>testList = new List<string>(); //Listの宣言
 
     // Start is called before the first frame update
     void Start()
@@ -113,36 +115,36 @@ public class input : MonoBehaviour
         // }
     }
 
-    public void DisplayTextBuild()
-    {
-         //InputFieldに入力された文字を取得
-        Text FieldText = GameObject.Find("InputField(Build)/Text").GetComponent<Text>();
+    // public void DisplayTextBuild()
+    // {
+    //      //InputFieldに入力された文字を取得
+    //     Text FieldText = GameObject.Find("InputField(Build)/Text").GetComponent<Text>();
         
-        //InputFieldに入力された文字をテキストエリアに表示
-        text.text = FieldText.text;
+    //     //InputFieldに入力された文字をテキストエリアに表示
+    //     text.text = FieldText.text;
 
-        //InputField内の文字をクリア
-        InputField column = GameObject.Find("InputField(Build)").GetComponent<InputField>();
-        column.text = "";
+    //     //InputField内の文字をクリア
+    //     InputField column = GameObject.Find("InputField(Build)").GetComponent<InputField>();
+    //     column.text = "";
 
-        //リストに文字列を
-        want = text.text;
-        //Debug.Log(want);
+    //     //リストに文字列を
+    //     want = text.text;
+    //     //Debug.Log(want);
 
-        if (want !=null && want.Length!=0) {
-            input.testList.Add(want);
-            Debug.Log(string.Join(",", input.testList));
-           // Debug.Log(want);
-            GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
-            obj.transform.parent = BollObject.transform;
-            obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
-            //listText.text = string.Join(",", saveData.tamaList);
-        }
-        // if (want !=null && want.Length!=0) {
-        //     tamaList.Add(want);
-        //     Debug.Log(string.Join(",", tamaList));
-        // }
-    }
+    //     if (want !=null && want.Length!=0) {
+    //         input.testList.Add(want);
+    //         Debug.Log(string.Join(",", input.testList));
+    //        // Debug.Log(want);
+    //         GameObject obj = Instantiate(BollBuild, new Vector3(0, 20, 100), Quaternion.identity);
+    //         obj.transform.parent = BollObjectBuild.transform;
+    //         obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
+    //         //listText.text = string.Join(",", saveData.tamaList);
+    //     }
+    //     // if (want !=null && want.Length!=0) {
+    //     //     tamaList.Add(want);
+    //     //     Debug.Log(string.Join(",", tamaList));
+    //     // }
+    // }
 
     public void PushLoadButton()
     {

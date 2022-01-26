@@ -72,6 +72,7 @@
     <Compile Include="Assets\AScript\garagara8Controller.cs" />
     <Compile Include="Assets\AScript\ImageScript.cs" />
     <Compile Include="Assets\AScript\input.cs" />
+    <Compile Include="Assets\AScript\inputBuild.cs" />
     <Compile Include="Assets\AScript\ListExtension.cs" />
     <Compile Include="Assets\AScript\MainCameraScript.cs" />
     <Compile Include="Assets\AScript\playerController.cs" />

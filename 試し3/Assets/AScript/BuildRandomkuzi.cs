@@ -18,6 +18,7 @@ public class BuildRandomkuzi : MonoBehaviour
     public GameObject Boll;
 
     public GameObject BollObject;
+    public GameObject BollObjectBuild;
 
     public float r=0f;
     public float g=0f;
@@ -44,10 +45,10 @@ public class BuildRandomkuzi : MonoBehaviour
         //var = inputField.GetComponent<input>();
 
         //InputFieldに入力された文字をテキストエリアに表示
-        string v = input.testList.GetAndRemoveAtRandom();
+        string v = inputBuild.testList.GetAndRemoveAtRandom();
         kuzi = v;
         text.text = kuzi;
-        Debug.Log(string.Join(",",input.testList));
+        Debug.Log(string.Join(",",inputBuild.testList));
 
         r = PlayerControllerBuild.bollColor.r;
         g = PlayerControllerBuild.bollColor.g;
@@ -60,14 +61,14 @@ public class BuildRandomkuzi : MonoBehaviour
     // テストリストこルーチン
     private IEnumerator SpawnBuild()
     {
-        for(int i=0; i<input.testList.Count; i++){
+        for(int i=0; i<inputBuild.testList.Count; i++){
            GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
-           obj.transform.parent = BollObject.transform;
+           obj.transform.parent = BollObjectBuild.transform;
            obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
            // 1秒待つ
             yield return new WaitForSeconds(0.5f); 
             // もし3回生成済だったらコルーチン終了
-            if (i == input.testList.Count) 
+            if (i == inputBuild.testList.Count) 
             {
                 yield break;
             }

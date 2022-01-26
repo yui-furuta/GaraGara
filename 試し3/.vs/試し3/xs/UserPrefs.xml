@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{E5D11837-2318-1C59-5907-007B855EAFCE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AScript/List.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AScript/ImageScript.cs">
     <Files>
       <File FileName="Assets/AScript/ImageScript.cs" Line="89" Column="1" />
-      <File FileName="Assets/AScript/BollObjectScript.cs" Line="38" Column="1" />
+      <File FileName="Assets/AScript/BollObjectScript.cs" />
       <File FileName="Assets/AScript/UIManeger.cs" />
       <File FileName="Assets/AScript/garagara8Controller.cs" />
-      <File FileName="Assets/AScript/playerController.cs" Line="70" Column="15" />
+      <File FileName="Assets/AScript/playerController.cs" />
       <File FileName="Assets/AScript/CameraScript.cs" />
-      <File FileName="Assets/PlayerControllerBuild.cs" Line="15" Column="35" />
-      <File FileName="Assets/AScript/BuildRandomkuzi.cs" Line="47" Column="1" />
-      <File FileName="Assets/AScript/randomkuzi.cs" Line="109" Column="58" />
-      <File FileName="Assets/AScript/List.cs" Line="2" Column="5" />
+      <File FileName="Assets/AScript/BuildRandomkuzi.cs" Line="71" Column="32" />
+      <File FileName="Assets/AScript/randomkuzi.cs" />
+      <File FileName="Assets/AScript/input.cs" />
+      <File FileName="Assets/AScript/inputBuild.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +18,7 @@
           <Node name="試し3" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="AScript" expanded="True">
-                <Node name="List.cs" selected="True" />
+                <Node name="ImageScript.cs" selected="True" />
               </Node>
             </Node>
           </Node>
