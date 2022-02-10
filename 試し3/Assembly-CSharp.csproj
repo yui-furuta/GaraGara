@@ -83,6 +83,7 @@
     <Compile Include="Assets\AScript\randomkuzi.cs" />
     <Compile Include="Assets\AScript\ScrollViewButton.cs" />
     <Compile Include="Assets\AScript\UIManeger.cs" />
+    <Compile Include="Assets\AScript\wallChange.cs" />
     <Compile Include="Assets\Save.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/furutayui/Documents/3年/3年後期/mukai/GaraGara/試し3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
