@@ -39,4 +39,13 @@ public class BollObjectScript : MonoBehaviour
         obj.transform.position = new Vector3(worldPos.x, worldPos.y, worldPos.z);
         // Destroy(transform.GetChild(Random.Range(0, transform.childCount)).gameObject);
     }
+
+    public void PushReloadListButton(){
+        //子オブジェクトを一つずつ取得
+        foreach (Transform child in gameObject.transform)
+        {
+            //削除する
+            Destroy(child.gameObject);
+        }
+    }
 }

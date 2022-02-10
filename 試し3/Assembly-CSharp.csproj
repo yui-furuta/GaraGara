@@ -68,6 +68,8 @@
     <Compile Include="Assets\AScript\BollObjectScript.cs" />
     <Compile Include="Assets\AScript\BuildRandomkuzi.cs" />
     <Compile Include="Assets\AScript\CameraScript.cs" />
+    <Compile Include="Assets\AScript\ConentBuild.cs" />
+    <Compile Include="Assets\AScript\content.cs" />
     <Compile Include="Assets\AScript\CreateBoll.cs" />
     <Compile Include="Assets\AScript\garagara8Controller.cs" />
     <Compile Include="Assets\AScript\ImageScript.cs" />
@@ -75,9 +77,11 @@
     <Compile Include="Assets\AScript\inputBuild.cs" />
     <Compile Include="Assets\AScript\ListExtension.cs" />
     <Compile Include="Assets\AScript\MainCameraScript.cs" />
+    <Compile Include="Assets\AScript\NodeScript.cs" />
     <Compile Include="Assets\AScript\playerController.cs" />
     <Compile Include="Assets\AScript\PlayerControllerBuild.cs" />
     <Compile Include="Assets\AScript\randomkuzi.cs" />
+    <Compile Include="Assets\AScript\ScrollViewButton.cs" />
     <Compile Include="Assets\AScript\UIManeger.cs" />
     <Compile Include="Assets\Save.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

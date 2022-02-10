@@ -13,6 +13,7 @@ public class UIManeger : MonoBehaviour
     [SerializeField] GameObject InputPanel;
     [SerializeField] GameObject KuziPanel;
     [SerializeField] GameObject HelpGaraponPanel;
+    [SerializeField] GameObject ListPanel;
 
 
 
@@ -41,6 +42,11 @@ public class UIManeger : MonoBehaviour
         InputPanel.SetActive(true);
     }
 
+    public void SelectListDescription(){
+        TopPanel.SetActive(false);
+        ListPanel.SetActive(true);
+    }
+
 
     //2つのDescriptionPanelでBackButtonが押されたときの処理
     //MenuPanelをアクティブにする
@@ -50,6 +56,7 @@ public class UIManeger : MonoBehaviour
         GaraponPanel.SetActive(false);
         InputPanel.SetActive(false);
         KuziPanel.SetActive(false);
+        ListPanel.SetActive(false);
     }
 
     public void KuziChoice(){
@@ -70,4 +77,5 @@ public class UIManeger : MonoBehaviour
     {
         HelpGaraponPanel.SetActive(false);
     }
+   
 }

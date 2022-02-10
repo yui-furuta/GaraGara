@@ -102,8 +102,8 @@ public class input : MonoBehaviour
             SaveData saveData = Load();
             saveData.tamaList.Add(want);
             Save(saveData);
-            Debug.Log(string.Join(",", saveData.tamaList));
-           // Debug.Log(want);
+            //Debug.Log(string.Join(",", saveData.tamaList));
+            //Debug.Log(want);
             GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
             obj.transform.parent = BollObject.transform;
             obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
