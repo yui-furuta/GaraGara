@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{E5D11837-2318-1C59-5907-007B855EAFCE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AScript/BollObjectScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AScript/ConentBuild.cs">
     <Files>
       <File FileName="Assets/AScript/NodeScript.cs" Line="1" Column="1" />
       <File FileName="Assets/AScript/content.cs" />
       <File FileName="Assets/AScript/ImageScript.cs" />
-      <File FileName="Assets/AScript/wallChange.cs" Line="82" Column="1" />
-      <File FileName="Assets/AScript/BollObjectScript.cs" Line="38" Column="1" />
+      <File FileName="Assets/AScript/wallChange.cs" />
+      <File FileName="Assets/AScript/BollObjectScript.cs" />
+      <File FileName="Assets/AScript/ConentBuild.cs" Line="37" Column="8" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

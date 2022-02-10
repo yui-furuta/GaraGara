@@ -14,6 +14,8 @@ public class ConentBuild : MonoBehaviour
     private GameObject ParentObject;
     private GameObject[] ChildObject;
 
+    int ver = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,15 +26,9 @@ public class ConentBuild : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(ListPanel.activeSelf == true){
-           contentLoad();
-        }
+        
     }
 
-    public void contentLoad(){
-       // SaveData saveData = Load();
-        Debug.Log(string.Join(",", inputBuild.testList));
-    }
 
     public void pushContentButton(){
        // SaveData saveData = Load();
@@ -67,6 +63,7 @@ public class ConentBuild : MonoBehaviour
             Destroy(child.gameObject);
         }
 
+        ver = 0;
         // for(int i=0; i<saveData.tamaList.Count; i++){
         // string v = saveData.tamaList[i];
         // Debug.Log(v);
