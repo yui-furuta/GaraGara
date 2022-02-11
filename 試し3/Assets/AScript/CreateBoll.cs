@@ -7,18 +7,6 @@ public class CreateBoll : MonoBehaviour
 
     public GameObject Boll;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void CubeCreate()
     {
         GameObject obj = Instantiate(Boll, new Vector3(0, 0, 100), Quaternion.identity);

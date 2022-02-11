@@ -36,23 +36,6 @@ public class ImageScript : MonoBehaviour
             me.GetComponent<Image>().color = tmp;
             flag = 1;
         }
-
-    //     if (Input.touchCount > 0) {
-    // // タッチ情報の取得
-    // Touch touch = Input.GetTouch(0);
-
-    // if (touch.phase == TouchPhase.Began) {
-    //     Debug.Log("押した瞬間");
-    // }
-
-    // if (touch.phase == TouchPhase.Ended) {
-    // Debug.Log("離した瞬間");
-    // }
-
-    // if (touch.phase == TouchPhase.Moved) {
-    //     Debug.Log("押しっぱなし");
-    // }
-    // }
     }
 
     void fadeInFunc()

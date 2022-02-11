@@ -27,23 +27,9 @@ public class BuildRandomkuzi : MonoBehaviour
 
     public Image image;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     public void randomChoice()
     {
-        //inputField = GameObject.Find("inputField");
-        //var = inputField.GetComponent<input>();
-
         //InputFieldに入力された文字をテキストエリアに表示
         string v = inputBuild.testList.GetAndRemoveAtRandom();
         kuzi = v;

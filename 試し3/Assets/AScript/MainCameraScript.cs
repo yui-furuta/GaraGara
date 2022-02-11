@@ -13,12 +13,6 @@ public class MainCameraScript : MonoBehaviour
     [SerializeField] GameObject KuziPanel;
 
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {

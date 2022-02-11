@@ -4,14 +4,6 @@ using UnityEngine;
 using System.Linq;
 using UnityEngine.UI;
 
-// [System.Serializable]
-// public class BollColor{
-//    public float colorR;
-//    public float colorG;
-//    public float colorB;
-//    public float colorA;
-// }
-
 public class playerController : MonoBehaviour
 {
     Rigidbody rb;
@@ -30,13 +22,6 @@ public class playerController : MonoBehaviour
 
     public static Color bollColor = new Color(0f, 0f, 0f, 0f);
 
-    // [SerializeField] GameObject TopPanel;
-    // [SerializeField] GameObject GaraponPanel;
-    // [SerializeField] GameObject InputPanel;
-    // [SerializeField] GameObject KuziPanel;
-
-    //public float speedratio;
-    // Start is called before the first frame update
     void Start()
     {
         // rb = GetComponent<Rigidbody>();
@@ -69,14 +54,6 @@ public class playerController : MonoBehaviour
             UIManeger.GetComponent<UIManeger>().KuziChoice();
             //KuziPanel.GetComponent<panelColorScript>().Kuzi();
         }
-
-        // }
-        // else{
-        //     move = new Vector3(0, 20, 100);
-        // }
-        //gameclea.GetComponent<Text>();
-        // this.gameObject.SetActive(false);
-        // gameclea.SetActive(true);
     }
     
 }

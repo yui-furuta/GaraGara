@@ -10,12 +10,7 @@ public class CameraScript : MonoBehaviour
     [SerializeField] GameObject GaraponPanel;
     [SerializeField] GameObject InputPanel;
     [SerializeField] GameObject KuziPanel;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
+    
     // Update is called once per frame
     void Update()
     {

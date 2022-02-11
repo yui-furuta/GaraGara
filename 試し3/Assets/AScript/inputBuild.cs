@@ -30,12 +30,6 @@ public class inputBuild : MonoBehaviour
         inputFieldBuild = GetComponent<InputField>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public string add;
 
     public void DisplayTextBuild()
@@ -63,22 +57,5 @@ public class inputBuild : MonoBehaviour
             obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
             //listText.text = string.Join(",", saveData.tamaList);
         }
-        // if (want !=null && want.Length!=0) {
-        //     tamaList.Add(want);
-        //     Debug.Log(string.Join(",", tamaList));
-        // }
     }
-
-    // public void Button(){
-    //     GameObject obj = Instantiate(Boll, new Vector3(0, 20, 100), Quaternion.identity);
-    //     obj.transform.parent = BollObject.transform;
-    //     obj.GetComponent<Renderer>().material.color = new Color(Random.value, Random.value, Random.value, 1.0f);
-    //     //InputFieldに入力された文字を取得
-    //     Text FieldText = GameObject.Find("InputField/Text").GetComponent<Text>();
-    //     testList.Add(FieldText.text);
-    //     //InputField内の文字をクリア
-    //     InputField column = GameObject.Find("InputField").GetComponent<InputField>();
-    //     column.text = "";
-    //     listText.text = string.Join(",", testList);
-    // }
 }

@@ -13,67 +13,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-02-11T01:03:04.340+09:00
-  initializedAtString: 2022-02-10T17:40:41.668+09:00
+  lastUpdatedAtString: 2022-02-11T22:01:17.337+09:00
+  initializedAtString: 2022-02-11T22:00:50.946+09:00
   entries:
-  - path: "\u8A66\u30573/.vs/\u8A66\u30573/xs/UserPrefs.xml"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/.vs/\u8A66\u30573/xs/UserPrefs.xml"
-    projectPath: ".vs/\u8A66\u30573/xs/UserPrefs.xml"
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Assets/AScript/ConentBuild.cs"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/AScript/ConentBuild.cs"
-    projectPath: Assets/AScript/ConentBuild.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: "\u8A66\u30573/Assets/savedata.json"
     fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/savedata.json"
     projectPath: Assets/savedata.json
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Assets/Scenes/button 1.unity"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/Scenes/button
-      1.unity"
-    projectPath: Assets/Scenes/button 1.unity
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "\u8A66\u30573/Assets/savedata.json.meta"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/savedata.json.meta"
+    projectPath: Assets/savedata.json.meta
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Assets/Scenes/button.unity"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Assets/Scenes/button.unity"
-    projectPath: Assets/Scenes/button.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: "\u8A66\u30573/Library/assetDatabase3"
     fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/assetDatabase3"
     projectPath: Library/assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/CrashedAssetImports.txt"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/CrashedAssetImports.txt"
-    projectPath: Library/CrashedAssetImports.txt
+  - path: "\u8A66\u30573/Library/EditorInstance.json"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/EditorInstance.json"
+    projectPath: Library/EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "\u8A66\u30573/Library/gfu/cache/branches.yaml"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/branches.yaml"
-    projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: "\u8A66\u30573/Library/gfu/cache/gitlocks.yaml"
     fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/gitlocks.yaml"
     projectPath: Library/gfu/cache/gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/gfu/cache/gitlog.yaml"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/gitlog.yaml"
-    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -95,51 +64,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/metadata/22/22c631552027d4adf9d7534717e5b388"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/22/22c631552027d4adf9d7534717e5b388"
-    projectPath: Library/metadata/22/22c631552027d4adf9d7534717e5b388
+  - path: "\u8A66\u30573/Library/gfu/cache/repoinfo.yaml"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/gfu/cache/repoinfo.yaml"
+    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/metadata/b0/b079dfd17ae0b4e40ae28eede4c9f1fa"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/b0/b079dfd17ae0b4e40ae28eede4c9f1fa"
-    projectPath: Library/metadata/b0/b079dfd17ae0b4e40ae28eede4c9f1fa
+  - path: "\u8A66\u30573/Library/il2cpp_cache/linkresult_66204287DBED96C7BDD112159C3D0F17/build.bc"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/il2cpp_cache/linkresult_66204287DBED96C7BDD112159C3D0F17/build.bc"
+    projectPath: Library/il2cpp_cache/linkresult_66204287DBED96C7BDD112159C3D0F17/build.bc
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.dll"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.dll"
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    workTreeStatus: 5
+  - path: "\u8A66\u30573/Library/metadata/ba/ba5e86b3e4cf54dca9a9c122593c5dc3"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/ba/ba5e86b3e4cf54dca9a9c122593c5dc3"
+    projectPath: Library/metadata/ba/ba5e86b3e4cf54dca9a9c122593c5dc3
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.pdb"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/ScriptAssemblies/Assembly-CSharp.pdb"
-    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "\u8A66\u30573/Library/metadata/ba/ba5e86b3e4cf54dca9a9c122593c5dc3.info"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/metadata/ba/ba5e86b3e4cf54dca9a9c122593c5dc3.info"
+    projectPath: Library/metadata/ba/ba5e86b3e4cf54dca9a9c122593c5dc3.info
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: "\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler0.log"
     fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler0.log"
     projectPath: Library/shadercompiler-UnityShaderCompiler0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler1.log"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler1.log"
-    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler2.log"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler2.log"
-    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler3.log"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Library/shadercompiler-UnityShaderCompiler3.log"
-    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -159,35 +110,17 @@ MonoBehaviour:
     fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/__Backupscenes/0.backup"
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: "\u8A66\u30573/Temp/UnityTempFile-18292410f98d64c5cb483bf8ecbc214f"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-18292410f98d64c5cb483bf8ecbc214f"
-    projectPath: Temp/UnityTempFile-18292410f98d64c5cb483bf8ecbc214f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "\u8A66\u30573/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert"
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "\u8A66\u30573/Temp/UnityTempFile-1b1678646584b4fd6b1acddb80f4e851"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-1b1678646584b4fd6b1acddb80f4e851"
-    projectPath: Temp/UnityTempFile-1b1678646584b4fd6b1acddb80f4e851
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "\u8A66\u30573/Temp/UnityTempFile-633cd904ca8324cdd881828c84a35de2"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-633cd904ca8324cdd881828c84a35de2"
-    projectPath: Temp/UnityTempFile-633cd904ca8324cdd881828c84a35de2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "\u8A66\u30573/Temp/UnityTempFile-c7787c50465a0482e9fecf77135e8f07"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-c7787c50465a0482e9fecf77135e8f07"
-    projectPath: Temp/UnityTempFile-c7787c50465a0482e9fecf77135e8f07
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "\u8A66\u30573/Temp/UnityTempFile-f52311aca3fcc465e82bc455d59dd321"
-    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityTempFile-f52311aca3fcc465e82bc455d59dd321"
-    projectPath: Temp/UnityTempFile-f52311aca3fcc465e82bc455d59dd321
+  - path: "\u8A66\u30573/Temp/UnityLockfile"
+    fullPath: "/Users/furutayui/Documents/3\u5E74/3\u5E74\u5F8C\u671F/mukai/GaraGara/\u8A66\u30573/Temp/UnityLockfile"
+    projectPath: Temp/UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

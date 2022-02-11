@@ -64,7 +64,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AScript\BollColor.cs" />
     <Compile Include="Assets\AScript\BollObjectScript.cs" />
     <Compile Include="Assets\AScript\BuildRandomkuzi.cs" />
     <Compile Include="Assets\AScript\CameraScript.cs" />

@@ -14,13 +14,6 @@ public class content : MonoBehaviour
     private GameObject ParentObject;
     private GameObject[] ChildObject;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        // var item = GameObject.Instantiate(prefab) as RectTransform;
-		// item.SetParent(transform, false);
-    }
-
     // Update is called once per frame
     void Update()
     {
@@ -62,24 +55,6 @@ public class content : MonoBehaviour
         Debug.Log(string.Join(",", saveData.tamaList));
     }
 
-    // // たまリストこルーチン
-    // private IEnumerator SpawnContent()
-    // {
-    //     SaveData saveData = Load();
-    //     for(int i=0; i<saveData.tamaList.Count; i++){
-    //        var item = GameObject.Instantiate(prefab) as RectTransform;
-	// 	   item.SetParent(transform, false);
-    //        // 1秒待つ
-    //         yield return new WaitForSeconds(0.1f); 
-    //         // リストの数分生成済だったらコルーチン終了
-    //         if (i == saveData.tamaList.Count)
-    //         {
-    //             yield break;
-    //         }
-    //     }
-    //     Debug.Log(string.Join(",", saveData.tamaList));
-    // }
-
     public void pushContentButton(){
         SaveData saveData = Load();
         for(int i=0; i<saveData.tamaList.Count; i++){
@@ -112,15 +87,5 @@ public class content : MonoBehaviour
             //削除する
             Destroy(child.gameObject);
         }
-
-        // for(int i=0; i<saveData.tamaList.Count; i++){
-        // string v = saveData.tamaList[i];
-        // Debug.Log(v);
-        // var item = GameObject.Instantiate(prefab) as RectTransform;
-		// item.SetParent(transform, false);
-
-        // var text = item.GetComponentInChildren<Text>();
-	    // text.text = v;
-        //}
     }
 }

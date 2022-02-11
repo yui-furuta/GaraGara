@@ -20,12 +20,6 @@ public class wallChange : MonoBehaviour
         pushPink();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void pushPink(){
         pink.SetActive(true);
         green.SetActive(false);

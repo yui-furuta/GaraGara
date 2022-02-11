@@ -20,7 +20,6 @@ public class BollObjectScript : MonoBehaviour
         Transform targetTransform = targetObject.transform;
         Vector3 worldAngle = targetTransform.eulerAngles;
         Vector3 worldPos = targetTransform.position;
-        //Debug.Log(worldPos.x+","+worldPos.y+","+worldPos.z);
     }
 
     public void PushReloadButton(){
@@ -37,7 +36,6 @@ public class BollObjectScript : MonoBehaviour
         Vector3 worldPos = ResetTransform.position;
         GameObject obj = transform.GetChild(Random.Range(0, transform.childCount)).gameObject;
         obj.transform.position = new Vector3(worldPos.x, worldPos.y, worldPos.z);
-        // Destroy(transform.GetChild(Random.Range(0, transform.childCount)).gameObject);
     }
 
     public void PushReloadListButton(){

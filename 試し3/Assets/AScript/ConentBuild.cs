@@ -16,19 +16,6 @@ public class ConentBuild : MonoBehaviour
 
     int ver = 0;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        // var item = GameObject.Instantiate(prefab) as RectTransform;
-		// item.SetParent(transform, false);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
 
     public void pushContentButton(){
        // SaveData saveData = Load();
@@ -64,14 +51,5 @@ public class ConentBuild : MonoBehaviour
         }
 
         ver = 0;
-        // for(int i=0; i<saveData.tamaList.Count; i++){
-        // string v = saveData.tamaList[i];
-        // Debug.Log(v);
-        // var item = GameObject.Instantiate(prefab) as RectTransform;
-		// item.SetParent(transform, false);
-
-        // var text = item.GetComponentInChildren<Text>();
-	    // text.text = v;
-        //}
     }
 }
